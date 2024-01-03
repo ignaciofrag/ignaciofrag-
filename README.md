@@ -1,5 +1,3 @@
-# ignaciofrag-
-
 # Hola, soy Ignacio Garfias Aguirre
 
 ## 👋 Bienvenido a mi perfil de GitHub
